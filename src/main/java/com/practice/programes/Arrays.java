@@ -1,4 +1,4 @@
-package com.practice.Arrays;
+package com.practice.programes;
 
 public class Arrays {
 
