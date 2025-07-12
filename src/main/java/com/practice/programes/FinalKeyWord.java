@@ -6,7 +6,7 @@ public class FinalKeyWord {
 	public static void main(String[] args) {
 		
 
-		  final class Calculator{
+		  class Calculator{
 		public int add(int a, int b) {
 			return a+b;
 		}
